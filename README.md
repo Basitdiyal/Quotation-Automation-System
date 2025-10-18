@@ -7,6 +7,9 @@ An AI-powered automation system that streamlines the **freight quotation process
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+<img width="1142" height="532" alt="Logistics  Quotation + Whats App" src="https://github.com/user-attachments/assets/cce57d47-0a0d-474e-95f8-68bf2b4bf8dd" />
+
+
 
 ## 🌟 Overview
 
